@@ -1,0 +1,107 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 420px;
+    margin-top: 100px;
+}
+
+.informations{
+    margin-left: 80px;
+    margin-top: 80px;
+    .information{
+        p{
+            color: white;
+            font-weight: bold;
+        }
+    }
+    .text1{
+        p{
+            color: white;
+        }
+    }
+    .text2{
+        margin-top: -10px;
+        p{
+            color: white;
+        }
+    }
+    .text3{
+        margin-top: -10px;
+        p{
+            color: white;
+        }
+    }
+    .text4{
+        margin-top: -10px;
+        p{
+            color: white;
+        }
+    }
+}
+
+
+.payment{
+    margin-left: 80px;
+    margin-top: 70px;
+    .pay{
+        p{
+            color: white;
+        }
+    }
+    .image{
+        color: white;
+        display: flex;
+        img{
+            width: 70px;
+            height: 50px;
+        }
+    }
+}
+
+.center{
+    margin-top: 60px;
+    margin-left: 50px;
+    
+    p{
+        color: white;
+        font-weight: bold;
+    font-size: 25px;
+    }
+    .time{
+        span{
+            color: white;
+        }
+    }
+    .phone{
+        display: flex;
+        color: white;
+        margin-left: 10px;
+        font-size: 25px;
+        .number{
+            margin-top: -10px;
+            p{
+                color: white;
+                font-weight: bold;
+                font-size: 25px;
+            }
+        }
+        
+    }
+
+    .info{
+        p{
+            color: white;
+            font-size: 20px;
+        }
+    }
+    .owner{
+        p{
+            color: white;
+            font-size: 15px;
+        }
+        span{
+            color: white;
+            font-size: 20px;
+        }
+    }
+}

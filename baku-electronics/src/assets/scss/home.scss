@@ -1,0 +1,137 @@
+.logo-search {
+    display: flex;
+
+    .logo {
+        margin-left: 20px;
+
+        img {
+            margin-top: 30px;
+        }
+    }
+
+    .search {
+        margin-top: 55px;
+        margin-left: 70px;
+        display: flex;
+
+        input {
+            width: 350px;
+            border-radius: 20px;
+            height: 40px;
+
+        }
+
+        .search-icon {
+            margin-left: -30px;
+            margin-top: 8px;
+        }
+    }
+}
+
+.texts {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 20px;
+
+    .text1 {
+
+        p {
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .border {
+            margin-top: -15px;
+        }
+    }
+
+
+    .text2 {
+        margin-left: 25px;
+
+        p {
+            font-size: 13px;
+        }
+
+        .border {
+            margin-top: -15px;
+        }
+    }
+
+    .text3 {
+        margin-left: 25px;
+
+        p {
+            font-size: 13px;
+        }
+
+        .icon {
+            display: flex;
+
+            .down-icon {
+                font-size: 10px;
+                margin-top: 2px;
+                margin-left: 4px;
+            }
+        }
+
+        .border {
+            margin-top: -15px;
+        }
+    }
+}
+
+
+.phone{
+    display: flex;
+    margin-top: 50px;
+    margin-left: -40px;
+    .phone-icon{
+        font-size: 25px;
+    }
+    .icons{
+        margin-left: 30px;
+        display: flex;
+        gap: 15px;
+        .icon1{
+            border: 1px solid gray;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .icon2{
+            border: 1px solid gray;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .icon3{
+            border: 1px solid gray;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .icon4{
+            border: 1px solid gray;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
+
+.container{
+    max-width: 1396px !important;
+}
